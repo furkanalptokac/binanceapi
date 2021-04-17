@@ -1,0 +1,13 @@
+{
+  "name": "binanceapi",
+  "version": "1.0.0",
+  "description": "Binance API test.",
+  "main": "index.js",
+  "repository": "https://github.com/furkanalptokac/binanceapi.git",
+  "author": "Furkan Alp <furkanalptokac@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "node-binance-api": "^0.12.5"
+  }
+}
